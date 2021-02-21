@@ -8,7 +8,7 @@
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
-## Project Name
+## Recipe Application
 A recipe application that allows us to create 3 types of food (kumpir,pizza,hamburger) with methods such as cook(), add_ingredient(), remove_ingredient(), add_salt() and many more...  
 
 ## Requirements
