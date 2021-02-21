@@ -14,6 +14,8 @@ A recipe application that allows us to create 3 types of food (kumpir,pizza,hamb
 ## Requirements
 ```
 I didn't use any special library for this project.
+
+```
 ---
 
 ### Certification
